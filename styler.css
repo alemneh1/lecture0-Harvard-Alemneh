@@ -1,0 +1,41 @@
+
+
+
+
+body {
+  background-color: #F0FFF0;
+}
+
+meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+@media only screen and (min-width: 600pt) {
+  body {
+    background-color: brown;
+  }
+
+
+h2 { text-align: center 
+}
+h1, h2, h3 {
+  color: rgb(56,56,56);
+  text-decoration: underline; 
+}
+
+#pg1{
+   color: rgb(56,56,56);
+   text-indent: 30%;
+   font-size: 15px;
+}
+
+
+ul {
+  font-size: 30px;
+  color: white;
+}
+
+ol {
+  font-size: 18px;
+  color: black;
+}
+
+
